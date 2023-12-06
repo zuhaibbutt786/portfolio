@@ -3,14 +3,20 @@
 #### Technical Skills: Python, SQL, java, Snowflake, MATLAB
 
 ## Education
-- M.S., Computer Science 	| The University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
-- B.S., Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
+- M.S,Computer Science | The University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
+- B.S,Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
 
 ## Work Experience
 
 **CEO @ Data Discoveries Hub (datadiscovieshub.site) (_December 2023 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- CEO at Data Discoveries Hub since December 2023.
+-Leading a dynamic team in the field of data exploration and analysis.
+-Focused on fostering a culture of creativity and collaboration.
+-Positioned Data Discoveries Hub as a leading platform for data-driven insights.
+-Instrumental in establishing strategic partnerships and driving business development.
+-Dedicated to staying ahead in data analytics and emerging technologies.
+-Successfully steering the company towards sustainable growth.
+-Committed to innovation and contributing to the transformative power of data.
 - 
 **Data Science Instructor @ GIFT University (_December 2021 - Present_)**
 - Worked with program director to develop and implement successful lesson plans.
@@ -29,19 +35,31 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Covid case study using folium
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Roman Urdu predition using machine learning models
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+### Traffic-sign-classification-and-detection
+![Traffic Sign](/assets/img/traffic sign.png)
+### Laptop-price-prediction-with-streamlit
+![Laptop Price Prediction](/assets/img/laptop price.jpeg)
+### TelecomOptiXcel
+![Telecom OptiXcel](/assets/img/bike_study.jpeg)
+### Simple Automatic-web-scraper
+![Web scrapper](/assets/img/web scraping.png)
+### Common Disease Prediction using Machine Learning and NLP with Framework Flask
+![Common Disease Prediction](/assets/img/disease.png)
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
