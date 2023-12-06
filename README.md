@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, java, Snowflake, MATLAB
 
 ## Education
-- M.S,Computer Science | The University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
+- M.S,Computer Science | University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
 - B.S,Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
 
 ## Work Experience
@@ -17,7 +17,7 @@
 -Dedicated to staying ahead in data analytics and emerging technologies.
 -Successfully steering the company towards sustainable growth.
 -Committed to innovation and contributing to the transformative power of data.
-- 
+  
 **Data Science Instructor @ GIFT University (_December 2021 - Present_)**
 - Worked with program director to develop and implement successful lesson plans.
 - Applied advanced education to help students struggling with material and techniques.
