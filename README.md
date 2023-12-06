@@ -1,18 +1,30 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, java, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Computer Science 	| The University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
+- B.S., Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**CEO @ Data Discoveries Hub (datadiscovieshub.site) (_December 2023 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- 
+**Data Science Instructor @ GIFT University (_December 2021 - Present_)**
+- Worked with program director to develop and implement successful lesson plans.
+- Applied advanced education to help students struggling with material and techniques.
+- Facilitated student participation by delivering fun, engaging lessons.
+- Designed and implemented course curriculum that reflected relevance of Data science to everyday world.
+- Teach Labs of Data science courses.
+  
+**Data Analyst @ get-solutions.site (_June 2020 - July 2021_)**
+- Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+- Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
+- Redesigned data model through iterations that improved predictions by 12%
+
+**Data Analyst @ ATC, Gujranwala (_July 2021 - December 2021_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
