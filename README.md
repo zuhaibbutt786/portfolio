@@ -10,13 +10,13 @@
 
 **CEO @ Data Discoveries Hub (datadiscovieshub.site) (_December 2023 - Present_)**
 - CEO at Data Discoveries Hub since December 2023.
--Leading a dynamic team in the field of data exploration and analysis.
--Focused on fostering a culture of creativity and collaboration.
--Positioned Data Discoveries Hub as a leading platform for data-driven insights.
--Instrumental in establishing strategic partnerships and driving business development.
--Dedicated to staying ahead in data analytics and emerging technologies.
--Successfully steering the company towards sustainable growth.
--Committed to innovation and contributing to the transformative power of data.
+- Leading a dynamic team in the field of data exploration and analysis.
+- Focused on fostering a culture of creativity and collaboration.
+- Positioned Data Discoveries Hub as a leading platform for data-driven insights.
+- Instrumental in establishing strategic partnerships and driving business development.
+- Dedicated to staying ahead in data analytics and emerging technologies.
+- Successfully steering the company towards sustainable growth.
+- Committed to innovation and contributing to the transformative power of data.
   
 **Data Science Instructor @ GIFT University (_December 2021 - Present_)**
 - Worked with program director to develop and implement successful lesson plans.
@@ -36,50 +36,111 @@
 
 ## Projects
 ### Covid case study using folium
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[LINK]([https://www.kaggle.com/code/zuhaibbutt/covid-casestudy-using-folium])
+- Develop a COVID-19 case study visualization using Folium, a Python library for interactive mapping, to effectively communicate the geographic distribution of COVID-19 cases.
+- Gather relevant COVID-19 data, including confirmed cases, deaths, and recoveries, with geographic information such as latitude and longitude for each location.
+- Clean and preprocess the data to ensure accuracy and consistency, handling any missing or inconsistent information.
+- Utilize Folium to create an interactive map that visually represents the COVID-19 data. This can include markers, choropleth maps, or other visualizations to convey the severity of cases in different regions.
+- Use markers on the map to represent individual locations with COVID-19 cases. Each marker may include information such as the number of confirmed cases, deaths, and recoveries.
+- Implement choropleth maps to display variations in COVID-19 metrics across regions, providing a quick overview of the intensity of the pandemic in different geographical areas.
+- Incorporate popups in markers or regions to display detailed information about COVID-19 statistics for each location when users interact with the map.
+-Enhance the study by incorporating a time series analysis, allowing users to observe how the COVID-19 situation has evolved over time in various regions.
+- Apply custom styling to the map to make it visually appealing and easily understandable. This may include color-coded markers or region shading to represent the severity of cases.
+- Design the map for user interactivity, allowing users to zoom in, pan, and explore specific regions or time periods for a more detailed analysis.
+- Include informational tooltips or legends to educate users on interpreting the map, understanding the color codes, and extracting meaningful insights from the visualizations.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Roman Urdu predition using machine learning models
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+[LINK]([https://www.kaggle.com/code/zuhaibbutt/roman-urdu-prediction-with-test-value])
+- Develop a machine learning model for predicting Roman Urdu text using transformer models, enhancing the capabilities of language processing in the context of Urdu written in the Roman script.
+- Curate and preprocess a comprehensive dataset of Roman Urdu text, ensuring diversity and relevance for effective model training.
+- Utilize state-of-the-art transformer models, such as GPT (Generative Pre-trained Transformer), for learning contextual patterns in Roman Urdu text.
+- Train the transformer model on the prepared dataset, leveraging transfer learning to harness pre-existing knowledge from the transformer architecture.
+- Fine-tune the model specifically for Roman Urdu nuances, considering the unique linguistic characteristics of Urdu written in the Roman script.
+- Develop a user-friendly interface, possibly through a web application, where users can input Roman Urdu text, and the model generates predictions or completes sentences.
+- Ensure the model is capable of providing real-time predictions, enabling users to receive immediate feedback on the Roman Urdu text they input.
+- Implement robust evaluation metrics to assess the model's accuracy, precision, and recall in predicting Roman Urdu text. Fine-tune as needed for optimal performance.
+- Highlight the versatility of the model for various applications, including text completion, sentiment analysis, or other natural language processing tasks specific to Roman Urdu.
+- Design the model for easy integration into different platforms, encouraging widespread use and accessibility.
+- Establish a system for continuous improvement, possibly through periodic updates and feedback loops, to enhance the model's accuracy and relevance over time.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Traffic-sign-classification-and-detection
+
+[LINK]([https://github.com/zuhaibbutt786/Traffic-sign-classification-and-detection])
+#### Objective:
+- Develop a laptop price prediction tool using machine learning and present it through a Streamlit web application.
+#### Features Included:
+- Consider a wide array of laptop specifications, encompassing processor type, RAM, storage capacity, graphics card, screen size, and other relevant attributes.
+#### Machine Learning Model:
+- Implement a machine learning model trained on a dataset containing diverse laptop specifications and corresponding prices. Likely employ regression algorithms to establish correlations.
+#### Streamlit Web Interface:
+- Utilize the Streamlit framework to create an intuitive web application, ensuring a user-friendly experience.
+#### User Interaction:
+- Enable users to input laptop specifications effortlessly through interactive widgets like sliders, drop-down menus, or text fields.
+#### Real-time Predictions:
+- Provide instantaneous predictions for laptop prices based on the entered specifications, allowing users to experiment and observe results in real-time.
+#### Visualization:
+- Enhance user understanding through visual elements such as charts or graphs, illustrating the impact of different specifications on predicted prices.
+#### Deployment:
+- Design the project to be deployable on various platforms, ensuring accessibility for a wide range of users.
+#### Open Source Potential:
+- Consider making the project open source, fostering collaboration and community contributions for continuous improvement.
+#### User Accessibility:
+- Aim to cater to both tech enthusiasts and individuals looking to make informed decisions when purchasing a new laptop.
+#### Practical Application:
+- Provide a practical solution for predicting laptop prices, leveraging the power of machine learning and offering a user-friendly interface through Streamlit.
+
 ![Traffic Sign](/assets/img/traffic sign.png)
 ### Laptop-price-prediction-with-streamlit
+
+[LINK]([https://github.com/zuhaibbutt786/Laptop-price-prediction-with-streamlit])
 ![Laptop Price Prediction](/assets/img/laptop price.jpeg)
 ### TelecomOptiXcel
+
+[LINK]([https://github.com/zuhaibbutt786/telecom-sheets-app])
 ![Telecom OptiXcel](/assets/img/bike_study.jpeg)
 ### Simple Automatic-web-scraper
+
+[LINK]([https://github.com/zuhaibbutt786/automatic-web-scraper])
+- Enter the URL of the website you want to scrape data from in the text box above.
+- The app will fetch the available classes from the provided URL and display them as options.
+- Select the classes you want to scrape data from using the multi-select dropdown.
+- Click the 'Scrape' button to extract the data from the selected classes.
+- The scraped data will be displayed in a table below.
+You can download the scraped data as a CSV file using the 'Download CSV' button.
+
 ![Web scrapper](/assets/img/web scraping.png)
 ### Common Disease Prediction using Machine Learning and NLP with Framework Flask
+
+[LINK]([https://github.com/zuhaibbutt786/Ai-medical-chatbot])
+- Developed a Common Disease Prediction system using Machine Learning and Natural Language Processing (NLP) techniques.
+- Implemented the solution within the Flask framework, ensuring a scalable and user-friendly web application.
+- Leveraged advanced machine learning algorithms to analyze user-input health data and predict potential diseases.
+- Integrated NLP capabilities to extract valuable insights from textual information, enhancing the accuracy of disease predictions.
+- Designed an intuitive user interface to facilitate seamless interaction, making it accessible to a wide range of users.
+- The system provides personalized health predictions based on individual health data, contributing to preventive healthcare.
+- Ensured data security and privacy measures to safeguard sensitive health information.
+- Regularly updated the system to incorporate the latest advancements in ML and NLP technologies.
+- Conducted thorough testing and validation to ensure the reliability and accuracy of disease predictions.
+- Aims to revolutionize healthcare by offering an efficient and technology-driven approach to disease prediction and prevention.
+  
 ![Common Disease Prediction](/assets/img/disease.png)
 
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Causality: The new science of an old question - concordia collage Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery , Al khazimi insitute Spring 2021
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- [NodeMCU and Cloud Computing for IoT: A Review of
+Integration Strategies](https://www.ijcst.org/Volume14/Issue2/p4_14_2.pdf)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Linkldin](https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/?originalSubdomain=pk)
+- [Github](https://github.com/zuhaibbutt786)
+- [Kaggle](https://www.kaggle.com/zuhaibbutt)
+- [Company](https://datadiscoverieshub.site/)
+- [Facebook](https://www.facebook.com/zuhaib.butt.50/)
+
