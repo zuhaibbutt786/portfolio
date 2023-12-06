@@ -49,7 +49,7 @@
 - Design the map for user interactivity, allowing users to zoom in, pan, and explore specific regions or time periods for a more detailed analysis.
 - Include informational tooltips or legends to educate users on interpreting the map, understanding the color codes, and extracting meaningful insights from the visualizations.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/covid.png)
 
 ### Roman Urdu predition using machine learning models
 [LINK]([https://www.kaggle.com/code/zuhaibbutt/roman-urdu-prediction-with-test-value])
@@ -65,7 +65,7 @@
 - Design the model for easy integration into different platforms, encouraging widespread use and accessibility.
 - Establish a system for continuous improvement, possibly through periodic updates and feedback loops, to enhance the model's accuracy and relevance over time.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/nlp.png)
 
 ### Traffic-sign-classification-and-detection
 
@@ -138,9 +138,11 @@ You can download the scraped data as a CSV file using the 'Download CSV' button.
 - [NodeMCU and Cloud Computing for IoT: A Review of
 Integration Strategies](https://www.ijcst.org/Volume14/Issue2/p4_14_2.pdf)
 
+## Social Media Links
 - [Linkldin](https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/?originalSubdomain=pk)
 - [Github](https://github.com/zuhaibbutt786)
 - [Kaggle](https://www.kaggle.com/zuhaibbutt)
-- [Company](https://datadiscoverieshub.site/)
 - [Facebook](https://www.facebook.com/zuhaib.butt.50/)
 
+## Company
+- [Company](https://datadiscoverieshub.site/)
